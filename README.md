@@ -29,12 +29,9 @@ Here are some ideas to get you started:
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rahulrajput83/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=brightgreen"/></a> &nbsp;&nbsp;&nbsp;
-<a 
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rahulrajput83/" target='_blank'><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=blueviolet" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rahulrajput83/" target='_blank'><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet" /></a>
 
-
-##  Github Followers
-[![Followers](https://img.shields.io/github/followers/rahulrajput83?label=Follow&style=social)](https://github.com/rahulrajput83)
 
 
 ## 🏆 Github Stats
