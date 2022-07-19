@@ -21,17 +21,13 @@ Here are some ideas to get you started:
 **rahulrajput83/rahulrajput83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Frontend Product Engineering.
 - 👯 I’m looking to collaborate with anyone on any frontend project.
 - 💬 Ask me about anything related to frontend.
 - ⚡ Fun fact: I love playing cricket and learning something new everyday. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&theme=highcontrast)
-
-
-
+## 🏆 Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&count_private=true&&theme=highcontrast)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulrajput83&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
@@ -41,8 +37,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrajput83&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="rahulrajput83" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&count_private=true&&theme=highcontrast)
-
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajput83&theme=highcontrast" alt="rahulrajput83" /></span>
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
