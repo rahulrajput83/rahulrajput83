@@ -26,20 +26,37 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to frontend.
 - ⚡ Fun fact: I love playing cricket and learning something new everyday.
 
+<div align="center">
 ##  Github Followers
 [![Followers](https://img.shields.io/github/followers/rahulrajput83?label=Follow&style=social)](https://github.com/rahulrajput83)
+</div>
 
+<div align="center">
 ## 🏆 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&count_private=true&&theme=highcontrast)
+</div>
 
+<div align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulrajput83&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
+<div align="center">
 ## Most Used Languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrajput83&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="rahulrajput83" /></p>
+</div>
 
+<div align="center">
 ## 
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajput83&theme=highcontrast" alt="rahulrajput83" /></span>
+</div>
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<br>
+</div>
+ 
+<div align="center">
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
