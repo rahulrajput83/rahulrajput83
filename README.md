@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to frontend.
 - ⚡ Fun fact: I love playing cricket and learning something new everyday.
 
+## 📬📥 Connnect with Me
 <div align="center">
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 <br/>
 <a href="https://www.linkedin.com/in/rahulrajput83/" target='_blank'><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/rajput_rahul8" target='_blank'><img width="105px" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.freecodecamp.org/fccef65be44-f99f-44aa-ab0e-86432100b72f" target='_blank'><img width="105px" alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
+<a href="https://www.freecodecamp.org/fccef65be44-f99f-44aa-ab0e-86432100b72f" target='_blank'><img width="120px" alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 </div>
 
 
