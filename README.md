@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love playing cricket and learning something new everyday.
 
 ##  Github Followers
-[![Followers](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/rahulrajput83)
+[![Followers](https://img.shields.io/github/followers/rahulrajput83?label=Follow&style=social)](https://github.com/rahulrajput83)
 
 ## 🏆 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&count_private=true&&theme=highcontrast)
