@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to frontend.
 - ⚡ Fun fact: I love playing cricket and learning something new everyday.
 
+
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rahulrajput83/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=brightgreen"/></a> &nbsp;&nbsp;&nbsp;
+<a 
+
+
 ##  Github Followers
 [![Followers](https://img.shields.io/github/followers/rahulrajput83?label=Follow&style=social)](https://github.com/rahulrajput83)
 
@@ -43,9 +50,14 @@ Here are some ideas to get you started:
 ## 
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajput83&theme=highcontrast" alt="rahulrajput83" /></span>
 
-
-<b style = {font-weight: 600}>Profile Visitors</b>
-<p><img align="center" src="https://profile-counter.glitch.me/{rahulrajput83}/count.svg" /></p> 
- 
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
+
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rahulrajput83}/count.svg" /></p> 
+<br>
+</div>
+ 
