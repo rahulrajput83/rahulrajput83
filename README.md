@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **rahulrajput83/rahulrajput83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi 👋, I'm Rahul Rajput</h1>
+
+<!--
+**rahulrajput83/rahulrajput83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning Frontend Product Engineering.
+- 👯 I’m looking to collaborate with anyone on any frontend project.
+- 💬 Ask me about anything related to frontend.
+- ⚡ Fun fact: I love playing cricket and learning something new everyday. 
+-->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrajput83&show_icons=true&theme=tokyonight)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PoojaUnnikrishnan&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PoojaUnnikrishnan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaunnikrishnan&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="poojaunnikrishnan" /></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poojaunnikrishnan&show_icons=true&count_private=true&&theme=highcontrast)
+
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaunnikrishnan&theme=highcontrast" alt="poojaunnikrishnan" /></span>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
