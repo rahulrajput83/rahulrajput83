@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 **rahulrajput83/rahulrajput83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 🌱 I’m currently learning Frontend Product Engineering.
- 👯 I’m looking to collaborate with anyone on any frontend project.
- 💬 Ask me about anything related to frontend.
- ⚡ Fun fact: I love playing cricket and learning something new everyday.
+- 🌱 I’m currently learning Frontend Product Engineering.
+- 👯 I’m looking to collaborate with anyone on any frontend project.
+- 💬 Ask me about anything related to frontend.
+- ⚡ Fun fact: I love playing cricket and learning something new everyday.
 
 ## 📬📥 Connnect with Me
 <div align="center">
