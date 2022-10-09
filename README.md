@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I am a Front End Developer from India..
 - 👯 I’m looking to collaborate with anyone on any frontend project.
 - 💬 Ask me about anything related to frontend.
-- ⚡ Fun fact: I love playing cricket and learning something new everyday.
+- ⚡ Fun fact: I love playing cricket and learning everyday.
 
 ## 📬📥 Connnect with Me
 <div align="center">
