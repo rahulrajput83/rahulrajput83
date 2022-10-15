@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajput83&theme=default" alt="rahulrajput83" /></span>
 
 ##
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahulrajput83&bg_color=ffffff&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=false)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahulrajput83&bg_color=ffffff&color=fb8c01&line=fb8c01&point=000000&area=true&hide_border=false)  
 
 ## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
