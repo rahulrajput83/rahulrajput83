@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🌱 I am a Front End Developer from India.
 - 👯 I’m looking to collaborate with anyone on any frontend project.
 - 💬 Ask me anything related to frontend.
-- ⚡ Fun fact: I love playing cricket and learning everyday.
+- ⚡ Fun fact: I love playing cricket and learning every day.
 
-## 📬📥 Connnect with Me
+## 📬📥 Connect with Me
 <div align="center">
 <br/>
 <a href="https://www.linkedin.com/in/rahulrajput83/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
