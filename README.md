@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajput83&theme=default" alt="rahulrajput83" /></span>
 
 
-## ✍️ Random Quote
+## ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 
